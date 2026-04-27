@@ -1,3 +1,15 @@
+# Unofficial Baritone Build
+
+This repository contains an unofficial build of Baritone.
+
+Original project: https://github.com/cabaletta/baritone  
+Authors: Baritone contributors  
+License: GNU LGPL v3.0 or later  
+
+This is NOT an official release.
+This build was created for Minecraft 1.20.5 / 1.20.6.
+
+
 # Baritone
 <p align="center">
   <a href="https://github.com/cabaletta/baritone/releases/"><img src="https://img.shields.io/github/downloads/cabaletta/baritone/total.svg" alt="GitHub All Releases"/></a>
